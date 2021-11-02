@@ -1,0 +1,13 @@
+.grid {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.grid-row {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+}
+.grid-square {
+    border: 1px black dotted;
+}
